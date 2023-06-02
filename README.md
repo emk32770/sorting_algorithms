@@ -1,1 +1,1 @@
-0x1B. C - Sorting algorithms & Big O
+Sorting Algos in C
